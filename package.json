@@ -1,0 +1,16 @@
+{
+    "name": "exam-mapper",
+    "version": "1.0.0",
+    "description": "maps a list of students to a set of randomized exams",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lukaswagner/exam-mapper.git"
+    },
+    "author": "Lukas Wagner",
+    "license": "MIT",
+    "homepage": "https://github.com/lukaswagner/exam-mapper#readme"
+}
