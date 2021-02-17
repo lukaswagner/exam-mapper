@@ -12,5 +12,8 @@
     },
     "author": "Lukas Wagner",
     "license": "MIT",
-    "homepage": "https://github.com/lukaswagner/exam-mapper#readme"
+    "homepage": "https://github.com/lukaswagner/exam-mapper#readme",
+    "dependencies": {
+        "yargs": "^16.2.0"
+    }
 }
