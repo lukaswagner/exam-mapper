@@ -5,6 +5,7 @@ const yargs = require('yargs');
 yargs
     .command(require('./map'))
     .command(require('./get'))
+    .command(require('./tsv'))
     .option('mapFile', {
         alias: ['m'],
         description:

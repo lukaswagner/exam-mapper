@@ -1,7 +1,6 @@
 'use strict';
 
 const fs = require('fs');
-const collision = require('./collision');
 const hash = require('./hash');
 const readStudents = require('./readStudents');
 
